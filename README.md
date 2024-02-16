@@ -1,7 +1,7 @@
 ## Salve, Salve!!! Eu sou Marvyson Cardoso
 <br>
 
-- 😎 Estudante de desenvolvimento BackEnd
+- 😎 Estudante de desenvolvimento Back-End e Front-End
 - 💬 Entusiasta da tecnologia
 - 📫 Como entrar em contato comigo: Marvysonprog@gmail.com
 - 🚀 "Quem trabalha com excelência, recebe as melhores recompensas." - Marvyson Cardoso
@@ -16,8 +16,8 @@
 <img align="right" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="300"/>
 <br><br>
 <li> 🎓 Formado em Redes de Computadores - IPESU
-<li> 🌱 Atualmente estou aprendendo HTML, NODEJS, CSS e JS.
-<li> ✍️ Cursando o FAP Softex, BackEnd com JavaScript</li>
+<li> 🌱 Atualmente estou aprendendo JavaScript, NodeJS, HTML, CSS e MySQL.
+<li> ✍️ Concluinte do FAP (Formação Acelerada de Programação) Softex, BackEnd com JavaScript</li>
 <br><br><br>
 <br>
 <div align="center">

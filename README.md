@@ -9,7 +9,6 @@
 
 
 <br><br>
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://img.ibxk.com.br/2015/07/15/15105231448568.gif)
 <br><br>
 
 ## Progresso 📚
@@ -39,4 +38,14 @@
 
 <br>
 
+##
 
+<div> 
+<a href="https://www.linkedin.com/in/marvyson-oliveira-cardoso-051865243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/marvyson_natural/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:marvysonprog@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+</div>
+
+![Snake animation](https://github.com/Marvysonprog/Marvysonprog/blob/output/github-contribution-grid-snake.svg)

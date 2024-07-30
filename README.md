@@ -1,7 +1,7 @@
 ## Salve, Salve!!! Eu sou Marvyson Cardoso
 <br>
 
-- 🌱 Estudante de FrontEnd 
+- 🌱 Estudante de FrontEnd e Análise e Desenvolvimento de Sistema
 - 🎓 Formado em Redes de Computadores - IPESU
 - 🎓 Especialização BackEnd pelo FAP (Formação Acelerada de Programação) na Softex - Pernambuco
 - 🚀 "Quem trabalha com excelência, recebe as melhores recompensas." - Marvyson Cardoso
@@ -37,8 +37,8 @@
 
 </div>
 
-<div>
+
   
 ![Snake animation](https://github.com/Marvysonprog/Marvysonprog/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
